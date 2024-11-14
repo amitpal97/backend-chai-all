@@ -3,3 +3,6 @@ tools
 
 1. eraser.io :- data moduling and  workflow maker
 2.  moon moduler  : -- data modeling tool for mongodb and mysql
+
+
+dotenv pacakge required because we are going to load by envirment variabale.
